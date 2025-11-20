@@ -1,0 +1,585 @@
+{
+  "metadata": {
+    "title": "FrostyLabs.ai - AI 기반 워크플로우 자동화 | 2025년 12월 출시",
+    "description": "AI 기반 워크플로우로 모든 것을 자동화하세요",
+    "keywords": "AI 자동화, 워크플로우 자동화, AI 에이전트, 블록체인"
+  },
+  "nav": {
+    "home": "홈",
+    "useCases": "사용 사례",
+    "features": "기능",
+    "pricing": "가격",
+    "about": "소개",
+    "github": "GitHub",
+    "twitter": "Twitter"
+  },
+  "hero": {
+    "title": "모든 것을 자동화하세요",
+    "subtitle": "AI 기반 워크플로우로",
+    "launchBadge": "🚀 2025년 12월 출시",
+    "description": "차세대 AI 자동화. 20개 이상의 AI 모델과 MCP 도구를 연결하여 35개 이상의 블록체인 네트워크를 기본 지원하는 복잡한 워크플로우를 자동화하세요 - 모두 하나의 플랫폼에서.",
+    "emailPlaceholder": "얼리 액세스를 위한 이메일 입력",
+    "joinBeta": "베타 대기자 명단 가입",
+    "frostyFlowButton": "FrostyFlow 곧 출시",
+    "viewGithub": "GitHub에서 보기",
+    "successMessage": "✅ 감사합니다! 대기자 명단에 등록되었습니다. 확인 이메일을 확인하세요.",
+    "errorMessage": "❌ 문제가 발생했습니다. 다시 시도해 주세요."
+  },
+  "stats": {
+    "aiModels": "AI 모델",
+    "blockchainNetworks": "블록체인 네트워크",
+    "automatedExecution": "자동 실행",
+    "possibilities": "가능성"
+  },
+  "poweredBy": {
+    "title": "업계 리더들이 지원합니다",
+    "aiModels": "AI 모델"
+  },
+  "useCases": {
+    "title": "무엇을 자동화하시겠습니까?",
+    "subtitle": "소셜 미디어부터 DeFi 거래까지, FrostyFlow가 모두 처리합니다. 한 번 구축하고 영원히 실행하세요.",
+    "cta": "이것은 시작에 불과합니다. 무엇을 만드시겠습니까?",
+    "ctaButton": "베타 대기자 명단 가입 →",
+    "cards": {
+      "socialMedia": {
+        "badge": "마케팅",
+        "title": "소셜 미디어 자동화",
+        "subtitle": "콘텐츠 생성 → 일정 관리 → 멀티 플랫폼 게시",
+        "features": [
+          "GPT-5가 트렌딩 주제에서 매력적인 게시물 생성",
+          "Claude 4가 플랫폼별 변형 생성",
+          "브라우저 자동화로 Twitter, LinkedIn, Instagram에 게시",
+          "분석 추적 및 성능 최적화"
+        ],
+        "benefit": "주당 20시간 이상 절약"
+      },
+      "defiTrading": {
+        "badge": "WEB3",
+        "title": "DeFi 거래 자동화",
+        "subtitle": "모니터링 → 분석 → 실행 → 알림",
+        "features": [
+          "실시간으로 DEX의 토큰 가격 모니터링",
+          "AI가 시장 동향을 분석하고 기회 식별",
+          "안전한 thirdweb 볼트를 통해 스왑 실행 (35개 이상 네트워크)",
+          "거래 및 포트폴리오 변경에 대한 즉각적인 알림"
+        ],
+        "benefit": "24/7 자동 거래",
+        "subtext": "thirdweb 인프라 기반"
+      },
+      "evmContract": {
+        "badge": "블록체인",
+        "title": "EVM 계약 자동화",
+        "subtitle": "배포 → 상호작용 → 모니터링 → 관리",
+        "features": [
+          "35개 이상의 EVM 체인에 스마트 계약 배포",
+          "thirdweb SDK로 자동화된 계약 호출",
+          "이벤트 모니터링 및 워크플로우 자동 트리거",
+          "가스 최적화 및 트랜잭션 관리"
+        ],
+        "benefit": "35개 이상의 블록체인 네트워크",
+        "subtext": "thirdweb v5 SDK 기반"
+      },
+      "customerSupport": {
+        "badge": "비즈니스",
+        "title": "AI 고객 지원",
+        "subtitle": "수신 → 분류 → 응답 → 에스컬레이션",
+        "features": [
+          "이메일, 채팅, 소셜 미디어에서 문의 수신",
+          "AI가 긴급도를 분류하고 적절한 부서로 라우팅",
+          "RAG 검색으로 개인화된 응답 생성",
+          "복잡한 문제를 인간 상담원에게 자동 에스컬레이션"
+        ],
+        "benefit": "응답 시간 90% 단축"
+      },
+      "ecommerce": {
+        "badge": "전자상거래",
+        "title": "온라인 비즈니스 자동화",
+        "subtitle": "제품 조사 → 리스팅 → 마케팅 → 이행",
+        "features": [
+          "AI가 트렌딩 제품 및 경쟁사 조사",
+          "SEO 최적화된 제품 설명 생성",
+          "플랫폼 전반에 걸쳐 재고 및 가격 자동 업데이트",
+          "개인화된 마케팅 이메일 및 후속 조치 발송"
+        ],
+        "benefit": "채용 없이 확장"
+      },
+      "contentCreation": {
+        "badge": "콘텐츠",
+        "title": "콘텐츠 생성 파이프라인",
+        "subtitle": "조사 → 작성 → 편집 → 게시 → 홍보",
+        "features": [
+          "조사 에이전트가 웹 및 데이터베이스에서 데이터 수집",
+          "작성 에이전트가 블로그 게시물, 기사, 스크립트 생성",
+          "편집 에이전트가 톤, 문법, SEO 최적화 개선",
+          "CMS에 자동 게시 및 소셜 미디어에서 홍보"
+        ],
+        "benefit": "콘텐츠 출력 10배 증가"
+      }
+    }
+  },
+  "pricing": {
+    "title": "NFT 기반 구독",
+    "subtitle": "NFT 구독으로 액세스 권한을 소유하세요. AI 자동화 권한을 거래, 양도 또는 보유하세요.",
+    "free": {
+      "name": "무료",
+      "price": "$0",
+      "description": "시작하기에 완벽함",
+      "emoji": "🆓",
+      "cta": "시작하기",
+      "features": [
+        "OpenRouter AI 모델",
+        "5개 기본 워크플로우",
+        "커뮤니티 지원",
+        "기본 분석"
+      ]
+    },
+    "pro": {
+      "name": "프로",
+      "price": "$25",
+      "description": "고급 워크플로우를 구축하는 전문가를 위한",
+      "emoji": "⚡",
+      "badge": "인기",
+      "cta": "NFT 액세스 발행",
+      "features": [
+        "10개 프로젝트",
+        "50개 워크플로우",
+        "월 500회 AI 호출",
+        "프리미엄 AI 모델 (GPT-5, Claude 4.5)",
+        "문서 업로드 및 RAG",
+        "예약된 워크플로우",
+        "우선 지원"
+      ]
+    },
+    "enterprise": {
+      "name": "엔터프라이즈",
+      "price": "$99",
+      "description": "팀 및 고급 자동화를 위한",
+      "emoji": "🏢",
+      "cta": "영업팀 문의",
+      "features": [
+        "무제한 프로젝트",
+        "무제한 워크플로우",
+        "월 2000회 AI 호출",
+        "멀티 에이전트 조정",
+        "고급 스케줄링",
+        "워크플로우 모니터링",
+        "맞춤형 통합"
+      ]
+    }
+  },
+  "features": {
+    "title": "강력한 기능",
+    "subtitle": "AI 자동화 워크플로우를 구축, 배포 및 확장하는 데 필요한 모든 것.",
+    "cta": "모든 기능 탐색",
+    "cards": {
+      "multiModel": {
+        "title": "멀티 모델 AI",
+        "description": "GPT-5, Claude, Nebula 및 20개 이상의 AI 모델을 연결하세요. 비용, 속도 및 품질에 따라 지능적으로 라우팅합니다."
+      },
+      "blockchain": {
+        "title": "블록체인 볼트",
+        "description": "AWS Nitro Enclave 보안을 갖춘 thirdweb 기반 15개 이상의 블록체인 작업."
+      },
+      "workflow": {
+        "title": "워크플로우 자동화",
+        "description": "cron 스케줄링, 웹훅 트리거 및 조건부 로직을 갖춘 시각적 워크플로우 빌더."
+      },
+      "analytics": {
+        "title": "실시간 분석",
+        "description": "비용 추적, 성능 메트릭 및 최적화 인사이트를 포함한 포괄적인 모니터링."
+      },
+      "security": {
+        "title": "엔터프라이즈 보안",
+        "description": "엔드 투 엔드 암호화, 보안 엔클레이브 및 SOC 2 Type II 표준 준수."
+      },
+      "nft": {
+        "title": "NFT 구독",
+        "description": "NFT로 액세스 권한을 소유하세요. 양도 가능하고 거래 가능하며 미래 지향적인 구독 모델."
+      }
+    }
+  },
+  "featuresPage": {
+    "hero": {
+      "badge": "⚡ 강력한 기능",
+      "title": "모든 것을 자동화하는 데 필요한",
+      "titleGradient": "모든 것",
+      "description": "AI 기반 워크플로우부터 블록체인 운영까지, FrostyLabs는 최첨단 기술로 비즈니스를 구축, 자동화 및 확장할 수 있는 도구를 제공합니다.",
+      "stats": {
+        "aiModels": "AI 모델",
+        "blockchainNetworks": "블록체인 네트워크",
+        "blockchainOperations": "블록체인 운영",
+        "possibilities": "가능성"
+      }
+    },
+    "blockchain": {
+      "title": "블록체인 볼트 운영",
+      "subtitle": "AWS Nitro Enclave 보호를 통해 여러 체인에서 안전한 블록체인 운영을 실행하세요.",
+      "selectOperation": "운영 선택",
+      "selectedPrefix": "선택됨:",
+      "securityNote": "모든 운영은 AWS Nitro Enclaves 보호를 갖춘 thirdweb Vault SDK로 보안됩니다.",
+      "clickPrompt": "위의 블록체인 운영을 클릭하여 자세한 정보와 보안 기능을 확인하세요.",
+      "operations": {
+        "transfer": {
+          "title": "토큰 전송",
+          "description": "가스 최적화를 통한 여러 체인에서의 안전한 토큰 전송"
+        },
+        "swap": {
+          "title": "토큰 스왑",
+          "description": "DEX 애그리게이터를 통한 최적 가격 라우팅으로 자동화된 토큰 스왑"
+        },
+        "stake": {
+          "title": "스테이킹",
+          "description": "수익률 최적화 및 보상 복리로 자동화된 스테이킹"
+        },
+        "bridge": {
+          "title": "자산 브리지",
+          "description": "보안 검증을 통한 체인 간 자산 브리지"
+        },
+        "mint": {
+          "title": "NFT 발행",
+          "description": "메타데이터 관리 및 IPFS 저장소를 통한 대량 NFT 발행"
+        },
+        "deploy": {
+          "title": "스마트 계약",
+          "description": "자동화된 스마트 계약 배포 및 상호작용"
+        },
+        "governance": {
+          "title": "거버넌스",
+          "description": "자동화된 DAO 투표 및 거버넌스 참여"
+        },
+        "yield": {
+          "title": "수익 농사",
+          "description": "위험 관리를 통한 자동화된 수익 농사"
+        }
+      }
+    },
+    "signup": {
+      "title": "몇 초 만에 가입",
+      "subtitle": "암호화폐 지식이 필요하지 않습니다. 이메일, 소셜 로그인 또는 기존 지갑으로 가입하세요 - 복잡한 부분은 저희가 처리합니다.",
+      "chooseMethod": "가입 방법 선택",
+      "emailSocial": {
+        "title": "이메일 및 소셜 로그인",
+        "description": "Google, Discord, Twitter, GitHub 또는 이메일로 가입 - 다른 앱과 동일합니다.",
+        "methods": ["Google", "Discord", "Twitter", "Email", "GitHub", "Passkey"]
+      },
+      "wallet": {
+        "title": "지갑 연결",
+        "description": "이미 MetaMask, Coinbase Wallet 또는 다른 지갑이 있나요? 즉시 연결하세요.",
+        "wallets": ["MetaMask", "Coinbase", "Rainbow", "Ledger"]
+      },
+      "behindScenes": {
+        "title": "뒤에서 무슨 일이 일어나나요?",
+        "steps": [
+          {
+            "title": "자동으로 생성되는 인앱 지갑",
+            "description": "가입하면 thirdweb가 자동으로 안전한 블록체인 지갑을 생성합니다 - 설정이 필요하지 않습니다."
+          },
+          {
+            "title": "관리할 개인 키 없음",
+            "description": "지갑은 로그인 방법(이메일, Google 등)으로 보안됩니다. 적거나 잃어버릴 시드 문구가 없습니다."
+          },
+          {
+            "title": "블록체인 기능 사용 준비 완료",
+            "description": "NFT 구독 구매, 블록체인 워크플로우 실행, 스마트 계약과 상호작용 - 모두 암호화폐 복잡성 없이."
+          },
+          {
+            "title": "엔터프라이즈급 보안",
+            "description": "AWS Nitro Enclaves를 갖춘 thirdweb 인프라로 구동 - 키가 노출되지 않습니다."
+          }
+        ]
+      },
+      "bestPart": {
+        "title": "가장 좋은 점은?",
+        "description": "작동 방식을 이해할 필요 없이 블록체인의 모든 이점(NFT 구독, 안전한 워크플로우, 다중 체인 지원)을 얻을 수 있습니다. 가입하고 자동화를 시작하세요!"
+      }
+    },
+    "security": {
+      "title": "안전한 블록체인 지갑 관리",
+      "subtitle": "워크플로우는 thirdweb Vault SDK 및 AWS Nitro Enclaves로 구동되는 엔터프라이즈급 보안으로 블록체인 지갑을 생성하고 관리할 수 있습니다.",
+      "vault": {
+        "title": "thirdweb Vault란 무엇인가요?",
+        "description": "thirdweb Vault는 워크플로우가 자동화된 운영을 위해 블록체인 지갑을 생성하고 제어할 수 있게 하는 안전한 키 관리 시스템입니다 - 대신 거래에 서명할 수 있는 로봇과 같습니다.",
+        "features": [
+          {
+            "title": "워크플로우에서 지갑 생성",
+            "description": "자동화 워크플로우는 특정 작업(거래 봇, NFT 발행 등)을 위한 전용 블록체인 지갑을 생성할 수 있습니다"
+          },
+          {
+            "title": "자동으로 거래 서명",
+            "description": "워크플로우는 수동 승인 없이 블록체인 거래, 메시지 및 스마트 계약 호출에 서명할 수 있습니다"
+          },
+          {
+            "title": "다중 체인 지원",
+            "description": "지원되는 35개 이상의 블록체인 네트워크에서 작동 - Ethereum, Polygon, Base, Arbitrum 등"
+          },
+          {
+            "title": "제어권 유지",
+            "description": "워크플로우 지갑에 액세스하고 관리할 수 있는 사람은 귀하뿐입니다 - 계정에 연결되어 있습니다"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "볼트 지갑 사용 사례",
+        "items": [
+          "자동화된 DeFi 거래 봇",
+          "NFT 발행 및 배포",
+          "스마트 계약 배포",
+          "다중 서명 운영",
+          "토큰 전송 및 결제"
+        ]
+      },
+      "architecture": {
+        "title": "볼트 지갑은 어떻게 보안되나요?",
+        "nitro": {
+          "title": "AWS Nitro Enclaves",
+          "description": "개인 키는 AWS Nitro Enclaves에 저장됩니다 - AWS 관리자조차 액세스할 수 없는 격리된 하드웨어 보호 환경입니다.",
+          "features": [
+            "CPU 수준 암호화 격리",
+            "엔클레이브에서 네트워크 액세스 없음",
+            "코드 무결성의 암호화 증명"
+          ]
+        },
+        "encryption": {
+          "title": "종단 간 암호화",
+          "description": "볼트 지갑과의 모든 통신은 완전 순방향 비밀성을 갖춘 xChaCha20-Poly1305 암호화를 사용합니다.",
+          "features": [
+            "개인 키는 엔클레이브를 떠나지 않음",
+            "저장 및 전송 중 암호화",
+            "제로 지식 아키텍처"
+          ]
+        }
+      }
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "🚀 2025년 12월 출시",
+      "title": "AI 자동화의 미래를",
+      "titleGradient": "구축하다",
+      "description": "FrostyLabs는 AI 자동화를 민주화하고 블록체인 기술을 모두에게 접근 가능하게 만드는 것을 사명으로 합니다. 우리는 차세대 자동화 워크플로우를 구동할 도구를 구축하고 있습니다.",
+      "stats": {
+        "aiModels": "AI 모델",
+        "blockchainNetworks": "블록체인 네트워크",
+        "launchDate": "출시일"
+      }
+    },
+    "mission": {
+      "title": "우리의 사명",
+      "paragraph1": "우리는 AI 자동화가 접근 가능하고 안전하며 진정으로 분산되어야 한다고 믿습니다. 우리의 사명은 여러 AI 모델의 힘을 블록체인 기술의 보안 및 소유권 이점과 결합하여 AI 워크플로우 자동화를 민주화하는 것입니다.",
+      "paragraph2": "NFT 기반 구독을 통해 사용자가 액세스 권한을 진정으로 소유하고 자유롭게 거래하며 생태계에서 창출하는 가치로부터 이익을 얻을 수 있는 새로운 패러다임을 만들고 있습니다.",
+      "goals": [
+        "AI 자동화 액세스 민주화",
+        "최대 보안 및 개인정보 보호 보장",
+        "진정으로 분산된 인프라 구축"
+      ],
+      "vision": {
+        "title": "우리의 비전",
+        "description": "AI 자동화가 디지털 자산만큼 접근 가능하고 거래 가능한 세상, 사용자가 자신의 운명을 통제하는 세상, 인공지능의 힘이 대기업뿐만 아니라 모두에 의해 활용되는 세상."
+      }
+    },
+    "techStack": {
+      "title": "기술 스택",
+      "subtitle": "최대 성능, 보안 및 확장성을 위한 최첨단 기술로 구축되었습니다.",
+      "stacks": {
+        "backend": {
+          "title": "백엔드 인프라",
+          "items": {
+            "framework": "Next.js 15",
+            "runtime": "Node.js 20+",
+            "database": "PostgreSQL",
+            "auth": "Web3 Auth",
+            "orm": "Drizzle"
+          }
+        },
+        "blockchain": {
+          "title": "블록체인 인프라",
+          "items": {
+            "sdk": "thirdweb v5",
+            "vault": "thirdweb Vault",
+            "networks": "35+ EVM 체인",
+            "security": "AWS Nitro",
+            "nftStandards": "ERC-721/1155"
+          }
+        },
+        "aiModels": {
+          "title": "AI 모델",
+          "items": {
+            "openai": "GPT-5, GPT-4.1",
+            "anthropic": "Claude 4",
+            "google": "Gemini 2.x",
+            "xai": "Grok-3",
+            "total": "20+ 모델"
+          }
+        },
+        "devops": {
+          "title": "DevOps",
+          "items": {
+            "container": "Docker",
+            "orchestration": "Kubernetes",
+            "cicd": "GitHub Actions",
+            "monitoring": "Prometheus",
+            "cloud": "AWS/GCP"
+          }
+        },
+        "frontend": {
+          "title": "프론트엔드",
+          "items": {
+            "framework": "React 19",
+            "styling": "Tailwind CSS",
+            "uiLibrary": "shadcn/ui",
+            "workflowUI": "React Flow",
+            "animations": "Framer Motion"
+          }
+        },
+        "security": {
+          "title": "보안",
+          "items": {
+            "walletAuth": "thirdweb",
+            "encryption": "AES-256",
+            "keyStorage": "AWS Nitro",
+            "compliance": "SOC 2, ISO",
+            "privacy": "GDPR"
+          }
+        }
+      },
+      "labels": {
+        "framework": "프레임워크",
+        "runtime": "런타임",
+        "database": "데이터베이스",
+        "auth": "인증",
+        "orm": "ORM",
+        "sdk": "SDK",
+        "vault": "볼트",
+        "networks": "네트워크",
+        "security": "보안",
+        "nftStandards": "NFT 표준",
+        "openai": "OpenAI",
+        "anthropic": "Anthropic",
+        "google": "Google AI",
+        "xai": "xAI",
+        "total": "총 모델",
+        "container": "컨테이너",
+        "orchestration": "오케스트레이션",
+        "cicd": "CI/CD",
+        "monitoring": "모니터링",
+        "cloud": "클라우드",
+        "styling": "스타일링",
+        "uiLibrary": "UI 라이브러리",
+        "workflowUI": "워크플로우 UI",
+        "animations": "애니메이션",
+        "walletAuth": "지갑 인증",
+        "encryption": "암호화",
+        "keyStorage": "키 저장소",
+        "compliance": "규정 준수",
+        "privacy": "개인정보 보호"
+      }
+    },
+    "roadmap": {
+      "title": "로드맵",
+      "subtitle": "AI 자동화 및 블록체인 통합을 혁신하기 위한 우리의 여정.",
+      "quarters": {
+        "q4_2025": {
+          "quarter": "Q4 2025",
+          "title": "공개 출시 및 초기 성장",
+          "status": "진행 중",
+          "items": [
+            {
+              "icon": "✓",
+              "text": "랜딩 페이지 및 마케팅 사이트"
+            },
+            {
+              "icon": "✓",
+              "text": "프로덕션 배포 및 모니터링"
+            },
+            {
+              "icon": "🚧",
+              "text": "오픈 베타 출시 (2025년 11월/12월)"
+            },
+            {
+              "icon": "🚧",
+              "text": "베타 테스트 프로그램 (20-50명 사용자)"
+            },
+            {
+              "icon": "🚧",
+              "text": "커뮤니티 구축 및 사용자 온보딩"
+            },
+            {
+              "icon": "📋",
+              "text": "사용자 피드백 통합 및 반복"
+            }
+          ]
+        },
+        "q1_2026": {
+          "quarter": "Q1 2026",
+          "title": "AI 에이전트 플랫폼 및 고급 기능",
+          "status": "계획됨",
+          "items": [
+            {
+              "icon": "🤖",
+              "text": "Frosty Agent: AI 에이전트 및 애플리케이션 빌더 - 맞춤형 AI 에이전트 및 소규모 AI 애플리케이션 생성",
+              "bold": true
+            },
+            {
+              "icon": "⚡",
+              "text": "Frosty Agent: 자연어 워크플로우 생성 - 사용자 설명에서 워크플로우 생성",
+              "bold": true
+            },
+            {
+              "icon": "🧠",
+              "text": "Nebula AI 모델 통합 - 향상된 성능을 위한 고급 AI 모델",
+              "bold": true
+            },
+            {
+              "icon": "📋",
+              "text": "RAG 검색 및 의미론적 문서 검색 (Pro 티어)"
+            },
+            {
+              "icon": "📋",
+              "text": "고급 에이전트 생태계 기능"
+            },
+            {
+              "icon": "📋",
+              "text": "워크플로우 마켓플레이스 및 템플릿 라이브러리"
+            }
+          ]
+        },
+        "q2_2026": {
+          "quarter": "Q2 2026",
+          "title": "FrostyDAO 및 토큰 출시",
+          "status": "계획됨",
+          "items": [
+            {
+              "icon": "🔥",
+              "text": "FrostyDAO 프로토콜 소유 유동성 생태계",
+              "bold": true
+            },
+            {
+              "icon": "🔥",
+              "text": "$FROST 토큰 페어런치",
+              "bold": true
+            },
+            {
+              "icon": "📋",
+              "text": "거버넌스 및 커뮤니티 주도 개발"
+            },
+            {
+              "icon": "📋",
+              "text": "DAO 재무 관리 및 투표 메커니즘"
+            },
+            {
+              "icon": "📋",
+              "text": "커뮤니티 보상 및 인센티브 프로그램"
+            }
+          ]
+        }
+      },
+      "community": {
+        "title": "커뮤니티에 참여하세요",
+        "description": "자동화의 미래를 구축하는 개발자, AI 애호가 및 블록체인 선구자들과 연결하세요.",
+        "github": "GitHub",
+        "twitter": "Twitter"
+      }
+    }
+  }
+}
+

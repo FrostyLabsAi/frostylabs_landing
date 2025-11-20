@@ -1,0 +1,585 @@
+{
+  "metadata": {
+    "title": "FrostyLabs.ai - AI驱动的工作流自动化 | 2025年12月发布",
+    "description": "使用AI驱动的工作流自动化一切",
+    "keywords": "AI自动化, 工作流自动化, AI代理, 区块链"
+  },
+  "nav": {
+    "home": "首页",
+    "useCases": "使用案例",
+    "features": "功能",
+    "pricing": "价格",
+    "about": "关于",
+    "github": "GitHub",
+    "twitter": "Twitter"
+  },
+  "hero": {
+    "title": "自动化一切",
+    "subtitle": "使用AI驱动的工作流",
+    "launchBadge": "🚀 2025年12月发布",
+    "description": "下一代AI自动化。连接20多个AI模型和MCP工具，自动化复杂的工作流，原生支持35多个区块链网络 - 全部在一个平台上。",
+    "emailPlaceholder": "输入您的电子邮件以获得早期访问",
+    "joinBeta": "加入Beta候补名单",
+    "frostyFlowButton": "FrostyFlow 即将推出",
+    "viewGithub": "在GitHub上查看",
+    "successMessage": "✅ 谢谢！您已在候补名单上。请查看您的电子邮件以确认。",
+    "errorMessage": "❌ 出了点问题。请重试。"
+  },
+  "stats": {
+    "aiModels": "AI模型",
+    "blockchainNetworks": "区块链网络",
+    "automatedExecution": "自动执行",
+    "possibilities": "可能性"
+  },
+  "poweredBy": {
+    "title": "由行业领导者提供支持",
+    "aiModels": "AI模型"
+  },
+  "useCases": {
+    "title": "您想自动化什么？",
+    "subtitle": "从社交媒体到DeFi交易，FrostyFlow处理一切。构建一次，永久运行。",
+    "cta": "这只是开始。您将构建什么？",
+    "ctaButton": "加入Beta候补名单 →",
+    "cards": {
+      "socialMedia": {
+        "badge": "营销",
+        "title": "社交媒体自动化",
+        "subtitle": "内容创建 → 调度 → 多平台发布",
+        "features": [
+          "GPT-5从热门话题生成引人入胜的帖子",
+          "Claude 4创建特定于平台的变体",
+          "浏览器自动化发布到Twitter、LinkedIn、Instagram",
+          "分析跟踪和性能优化"
+        ],
+        "benefit": "每周节省20多小时"
+      },
+      "defiTrading": {
+        "badge": "WEB3",
+        "title": "DeFi交易自动化",
+        "subtitle": "监控 → 分析 → 执行 → 通知",
+        "features": [
+          "实时监控DEX上的代币价格",
+          "AI分析市场趋势并识别机会",
+          "通过安全的thirdweb保险库执行交换（35+网络）",
+          "关于交易和投资组合变化的即时通知"
+        ],
+        "benefit": "24/7自动交易",
+        "subtext": "由thirdweb基础设施提供支持"
+      },
+      "evmContract": {
+        "badge": "区块链",
+        "title": "EVM合约自动化",
+        "subtitle": "部署 → 交互 → 监控 → 管理",
+        "features": [
+          "在35多个EVM链上部署智能合约",
+          "使用thirdweb SDK自动化合约调用",
+          "监控事件并自动触发工作流",
+          "Gas优化和交易管理"
+        ],
+        "benefit": "35多个区块链网络",
+        "subtext": "基于thirdweb v5 SDK构建"
+      },
+      "customerSupport": {
+        "badge": "业务",
+        "title": "AI客户支持",
+        "subtitle": "接收 → 分类 → 响应 → 升级",
+        "features": [
+          "从电子邮件、聊天、社交媒体接收查询",
+          "AI分类紧急程度并路由到正确的部门",
+          "使用RAG搜索生成个性化响应",
+          "自动将复杂问题升级给人工代理"
+        ],
+        "benefit": "响应时间减少90%"
+      },
+      "ecommerce": {
+        "badge": "电子商务",
+        "title": "在线业务自动化",
+        "subtitle": "产品研究 → 列表 → 营销 → 履行",
+        "features": [
+          "AI研究热门产品和竞争对手",
+          "生成SEO优化的产品描述",
+          "自动更新跨平台的库存和价格",
+          "发送个性化营销电子邮件和后续跟进"
+        ],
+        "benefit": "无需招聘即可扩展"
+      },
+      "contentCreation": {
+        "badge": "内容",
+        "title": "内容创建管道",
+        "subtitle": "研究 → 撰写 → 编辑 → 发布 → 推广",
+        "features": [
+          "研究代理从网络和数据库收集数据",
+          "撰写代理创建博客文章、文章、脚本",
+          "编辑代理改进语气、语法、SEO优化",
+          "自动发布到CMS并在社交媒体上推广"
+        ],
+        "benefit": "内容输出增加10倍"
+      }
+    }
+  },
+  "pricing": {
+    "title": "基于NFT的订阅",
+    "subtitle": "通过NFT订阅拥有您的访问权限。交易、转让或持有您的AI自动化特权。",
+    "free": {
+      "name": "免费",
+      "price": "$0",
+      "description": "非常适合入门",
+      "emoji": "🆓",
+      "cta": "开始使用",
+      "features": [
+        "OpenRouter AI模型",
+        "5个基本工作流",
+        "社区支持",
+        "基本分析"
+      ]
+    },
+    "pro": {
+      "name": "专业版",
+      "price": "$25",
+      "description": "适合构建高级工作流的专业人士",
+      "emoji": "⚡",
+      "badge": "热门",
+      "cta": "铸造NFT访问权限",
+      "features": [
+        "10个项目",
+        "50个工作流",
+        "每月500次AI调用",
+        "高级AI模型（GPT-5、Claude 4.5）",
+        "文档上传和RAG",
+        "计划工作流",
+        "优先支持"
+      ]
+    },
+    "enterprise": {
+      "name": "企业版",
+      "price": "$99",
+      "description": "适合团队和高级自动化",
+      "emoji": "🏢",
+      "cta": "联系销售",
+      "features": [
+        "无限项目",
+        "无限工作流",
+        "每月2000次AI调用",
+        "多代理协调",
+        "高级调度",
+        "工作流监控",
+        "自定义集成"
+      ]
+    }
+  },
+  "features": {
+    "title": "强大的功能",
+    "subtitle": "构建、部署和扩展AI自动化工作流所需的一切。",
+    "cta": "探索所有功能",
+    "cards": {
+      "multiModel": {
+        "title": "多模型AI",
+        "description": "连接GPT-5、Claude、Nebula和20多个AI模型。根据成本、速度和质量智能路由。"
+      },
+      "blockchain": {
+        "title": "区块链保险库",
+        "description": "由thirdweb提供支持的15多个区块链操作，具有AWS Nitro Enclave安全性。"
+      },
+      "workflow": {
+        "title": "工作流自动化",
+        "description": "具有cron调度、webhook触发器和条件逻辑的可视化工作流构建器。"
+      },
+      "analytics": {
+        "title": "实时分析",
+        "description": "全面监控，包括成本跟踪、性能指标和优化见解。"
+      },
+      "security": {
+        "title": "企业安全",
+        "description": "端到端加密、安全飞地以及符合SOC 2 Type II标准。"
+      },
+      "nft": {
+        "title": "NFT订阅",
+        "description": "以NFT形式拥有您的访问权限。可转让、可交易且面向未来的订阅模式。"
+      }
+    }
+  },
+  "featuresPage": {
+    "hero": {
+      "badge": "⚡ 强大功能",
+      "title": "自动化一切所需的",
+      "titleGradient": "一切",
+      "description": "从AI驱动的工作流程到区块链操作，FrostyLabs为您提供使用尖端技术构建、自动化和扩展业务的工具。",
+      "stats": {
+        "aiModels": "AI模型",
+        "blockchainNetworks": "区块链网络",
+        "blockchainOperations": "区块链操作",
+        "possibilities": "可能性"
+      }
+    },
+    "blockchain": {
+      "title": "区块链保险库操作",
+      "subtitle": "通过AWS Nitro Enclave保护在多个链上执行安全的区块链操作。",
+      "selectOperation": "选择操作",
+      "selectedPrefix": "已选择：",
+      "securityNote": "所有操作均由具有AWS Nitro Enclaves保护的thirdweb Vault SDK保护。",
+      "clickPrompt": "点击上方任何区块链操作以查看详细信息和安全功能。",
+      "operations": {
+        "transfer": {
+          "title": "代币转账",
+          "description": "通过gas优化在多个链上进行安全的代币转账"
+        },
+        "swap": {
+          "title": "代币交换",
+          "description": "通过DEX聚合器进行最佳价格路由的自动代币交换"
+        },
+        "stake": {
+          "title": "质押",
+          "description": "通过收益优化和奖励复利进行自动质押"
+        },
+        "bridge": {
+          "title": "资产桥接",
+          "description": "通过安全验证进行跨链资产桥接"
+        },
+        "mint": {
+          "title": "NFT铸造",
+          "description": "通过元数据管理和IPFS存储进行批量NFT铸造"
+        },
+        "deploy": {
+          "title": "智能合约",
+          "description": "自动化智能合约部署和交互"
+        },
+        "governance": {
+          "title": "治理",
+          "description": "自动化DAO投票和治理参与"
+        },
+        "yield": {
+          "title": "收益耕作",
+          "description": "通过风险管理进行自动化收益耕作"
+        }
+      }
+    },
+    "signup": {
+      "title": "几秒钟内注册",
+      "subtitle": "无需加密知识。使用电子邮件、社交登录或现有钱包注册 - 我们处理复杂性。",
+      "chooseMethod": "选择您的注册方式",
+      "emailSocial": {
+        "title": "电子邮件和社交登录",
+        "description": "使用Google、Discord、Twitter、GitHub或电子邮件注册 - 就像任何其他应用程序一样。",
+        "methods": ["Google", "Discord", "Twitter", "Email", "GitHub", "Passkey"]
+      },
+      "wallet": {
+        "title": "连接您的钱包",
+        "description": "已经有MetaMask、Coinbase Wallet或其他钱包？立即连接。",
+        "wallets": ["MetaMask", "Coinbase", "Rainbow", "Ledger"]
+      },
+      "behindScenes": {
+        "title": "幕后发生了什么？",
+        "steps": [
+          {
+            "title": "自动创建应用内钱包",
+            "description": "注册时，thirdweb会自动为您创建一个安全的区块链钱包 - 无需设置。"
+          },
+          {
+            "title": "无需管理私钥",
+            "description": "您的钱包由您的登录方式（电子邮件、Google等）保护。无需记录或丢失助记词。"
+          },
+          {
+            "title": "准备使用区块链功能",
+            "description": "购买NFT订阅、运行区块链工作流程并与智能合约交互 - 所有这些都无需加密复杂性。"
+          },
+          {
+            "title": "企业级安全",
+            "description": "由具有AWS Nitro Enclaves的thirdweb基础设施提供支持 - 您的密钥永远不会暴露。"
+          }
+        ]
+      },
+      "bestPart": {
+        "title": "最好的部分？",
+        "description": "您可以获得区块链的所有好处（NFT订阅、安全工作流程、多链支持），而无需了解其工作原理。只需注册并开始自动化！"
+      }
+    },
+    "security": {
+      "title": "安全的区块链钱包管理",
+      "subtitle": "您的工作流程可以使用由thirdweb Vault SDK和AWS Nitro Enclaves提供支持的企业级安全性创建和管理区块链钱包。",
+      "vault": {
+        "title": "什么是thirdweb Vault？",
+        "description": "thirdweb Vault是一个安全的密钥管理系统，允许您的工作流程为自动化操作创建和控制区块链钱包 - 就像可以代表您签署交易的机器人。",
+        "features": [
+          {
+            "title": "在工作流程中创建钱包",
+            "description": "您的自动化工作流程可以为特定任务（交易机器人、NFT铸造等）创建专用区块链钱包"
+          },
+          {
+            "title": "自动签署交易",
+            "description": "工作流程可以在没有手动批准的情况下签署区块链交易、消息和智能合约调用"
+          },
+          {
+            "title": "多链支持",
+            "description": "适用于所有35+支持的区块链网络 - Ethereum、Polygon、Base、Arbitrum等"
+          },
+          {
+            "title": "您保持控制",
+            "description": "只有您可以访问和管理您的工作流程钱包 - 它们与您的帐户关联"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "保险库钱包用例",
+        "items": [
+          "自动化DeFi交易机器人",
+          "NFT铸造和分发",
+          "智能合约部署",
+          "多签操作",
+          "代币转账和支付"
+        ]
+      },
+      "architecture": {
+        "title": "保险库钱包如何保护？",
+        "nitro": {
+          "title": "AWS Nitro Enclaves",
+          "description": "私钥存储在AWS Nitro Enclaves中 - 即使AWS管理员也无法访问的隔离硬件保护环境。",
+          "features": [
+            "CPU级加密隔离",
+            "从enclave无网络访问",
+            "代码完整性的加密证明"
+          ]
+        },
+        "encryption": {
+          "title": "端到端加密",
+          "description": "与保险库钱包的所有通信都使用具有完美前向保密性的xChaCha20-Poly1305加密。",
+          "features": [
+            "私钥永远不会离开enclave",
+            "静态和传输中加密",
+            "零知识架构"
+          ]
+        }
+      }
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "🚀 2025年12月发布",
+      "title": "构建AI自动化的",
+      "titleGradient": "未来",
+      "description": "FrostyLabs的使命是使AI自动化民主化，并使区块链技术对所有人都可访问。我们正在构建将推动下一代自动化工作流程的工具。",
+      "stats": {
+        "aiModels": "AI模型",
+        "blockchainNetworks": "区块链网络",
+        "launchDate": "发布日期"
+      }
+    },
+    "mission": {
+      "title": "我们的使命",
+      "paragraph1": "我们相信AI自动化应该是可访问的、安全的和真正去中心化的。我们的使命是通过将多个AI模型的力量与区块链技术的安全性和所有权优势相结合来使AI工作流程自动化民主化。",
+      "paragraph2": "通过基于NFT的订阅，我们正在创建一个新的范式，用户真正拥有他们的访问权限，可以自由交易，并从他们在生态系统中创造的价值中受益。",
+      "goals": [
+        "使AI自动化访问民主化",
+        "确保最大的安全性和隐私",
+        "构建真正去中心化的基础设施"
+      ],
+      "vision": {
+        "title": "我们的愿景",
+        "description": "一个AI自动化像任何数字资产一样可访问和可交易的世界，用户控制自己的命运，人工智能的力量被所有人而不仅仅是大公司所利用。"
+      }
+    },
+    "techStack": {
+      "title": "技术栈",
+      "subtitle": "使用尖端技术构建，以实现最大性能、安全性和可扩展性。",
+      "stacks": {
+        "backend": {
+          "title": "后端基础设施",
+          "items": {
+            "framework": "Next.js 15",
+            "runtime": "Node.js 20+",
+            "database": "PostgreSQL",
+            "auth": "Web3 Auth",
+            "orm": "Drizzle"
+          }
+        },
+        "blockchain": {
+          "title": "区块链基础设施",
+          "items": {
+            "sdk": "thirdweb v5",
+            "vault": "thirdweb Vault",
+            "networks": "35+ EVM链",
+            "security": "AWS Nitro",
+            "nftStandards": "ERC-721/1155"
+          }
+        },
+        "aiModels": {
+          "title": "AI模型",
+          "items": {
+            "openai": "GPT-5, GPT-4.1",
+            "anthropic": "Claude 4",
+            "google": "Gemini 2.x",
+            "xai": "Grok-3",
+            "total": "20+模型"
+          }
+        },
+        "devops": {
+          "title": "DevOps",
+          "items": {
+            "container": "Docker",
+            "orchestration": "Kubernetes",
+            "cicd": "GitHub Actions",
+            "monitoring": "Prometheus",
+            "cloud": "AWS/GCP"
+          }
+        },
+        "frontend": {
+          "title": "前端",
+          "items": {
+            "framework": "React 19",
+            "styling": "Tailwind CSS",
+            "uiLibrary": "shadcn/ui",
+            "workflowUI": "React Flow",
+            "animations": "Framer Motion"
+          }
+        },
+        "security": {
+          "title": "安全",
+          "items": {
+            "walletAuth": "thirdweb",
+            "encryption": "AES-256",
+            "keyStorage": "AWS Nitro",
+            "compliance": "SOC 2, ISO",
+            "privacy": "GDPR"
+          }
+        }
+      },
+      "labels": {
+        "framework": "框架",
+        "runtime": "运行时",
+        "database": "数据库",
+        "auth": "认证",
+        "orm": "ORM",
+        "sdk": "SDK",
+        "vault": "保险库",
+        "networks": "网络",
+        "security": "安全",
+        "nftStandards": "NFT标准",
+        "openai": "OpenAI",
+        "anthropic": "Anthropic",
+        "google": "Google AI",
+        "xai": "xAI",
+        "total": "总模型数",
+        "container": "容器",
+        "orchestration": "编排",
+        "cicd": "CI/CD",
+        "monitoring": "监控",
+        "cloud": "云",
+        "styling": "样式",
+        "uiLibrary": "UI库",
+        "workflowUI": "工作流程UI",
+        "animations": "动画",
+        "walletAuth": "钱包认证",
+        "encryption": "加密",
+        "keyStorage": "密钥存储",
+        "compliance": "合规",
+        "privacy": "隐私"
+      }
+    },
+    "roadmap": {
+      "title": "路线图",
+      "subtitle": "我们革新AI自动化和区块链集成的旅程。",
+      "quarters": {
+        "q4_2025": {
+          "quarter": "Q4 2025",
+          "title": "公开发布和初始增长",
+          "status": "进行中",
+          "items": [
+            {
+              "icon": "✓",
+              "text": "着陆页和营销网站"
+            },
+            {
+              "icon": "✓",
+              "text": "生产部署和监控"
+            },
+            {
+              "icon": "🚧",
+              "text": "开放测试版发布（2025年11月/12月）"
+            },
+            {
+              "icon": "🚧",
+              "text": "测试版测试计划（20-50名用户）"
+            },
+            {
+              "icon": "🚧",
+              "text": "社区建设和用户入职"
+            },
+            {
+              "icon": "📋",
+              "text": "用户反馈集成和迭代"
+            }
+          ]
+        },
+        "q1_2026": {
+          "quarter": "Q1 2026",
+          "title": "AI代理平台和高级功能",
+          "status": "计划中",
+          "items": [
+            {
+              "icon": "🤖",
+              "text": "Frosty Agent：AI代理和应用程序构建器 - 创建自定义AI代理和小型AI应用程序",
+              "bold": true
+            },
+            {
+              "icon": "⚡",
+              "text": "Frosty Agent：自然语言工作流程创建 - 从用户描述生成工作流程",
+              "bold": true
+            },
+            {
+              "icon": "🧠",
+              "text": "Nebula AI模型集成 - 用于增强性能的高级AI模型",
+              "bold": true
+            },
+            {
+              "icon": "📋",
+              "text": "RAG搜索和语义文档搜索（Pro层）"
+            },
+            {
+              "icon": "📋",
+              "text": "高级代理生态系统功能"
+            },
+            {
+              "icon": "📋",
+              "text": "工作流程市场和模板库"
+            }
+          ]
+        },
+        "q2_2026": {
+          "quarter": "Q2 2026",
+          "title": "FrostyDAO和代币发布",
+          "status": "计划中",
+          "items": [
+            {
+              "icon": "🔥",
+              "text": "FrostyDAO协议拥有流动性生态系统",
+              "bold": true
+            },
+            {
+              "icon": "🔥",
+              "text": "$FROST代币公平发布",
+              "bold": true
+            },
+            {
+              "icon": "📋",
+              "text": "治理和社区驱动的开发"
+            },
+            {
+              "icon": "📋",
+              "text": "DAO财务管理和投票机制"
+            },
+            {
+              "icon": "📋",
+              "text": "社区奖励和激励计划"
+            }
+          ]
+        }
+      },
+      "community": {
+        "title": "加入我们的社区",
+        "description": "与构建自动化未来的开发者、AI爱好者和区块链先驱者联系。",
+        "github": "GitHub",
+        "twitter": "Twitter"
+      }
+    }
+  }
+}
+

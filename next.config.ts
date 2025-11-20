@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
+import createNextIntlPlugin from "next-intl/plugin";
 
-const nextConfig: NextConfig = {
-  /* config options here */
+export default () => {
+  const nextConfig: NextConfig = {
+    /* config options here */
+  };
+  const withNextIntl = createNextIntlPlugin("./i18n/request.ts");
+  return withNextIntl(nextConfig);
 };
-
-export default nextConfig;
