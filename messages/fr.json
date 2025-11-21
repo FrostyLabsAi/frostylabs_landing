@@ -22,8 +22,9 @@
     "joinBeta": "Obtenir un Accès Anticipé →",
     "frostyFlowButton": "FrostyFlow Bientôt Disponible",
     "viewGithub": "Voir sur GitHub",
-    "successMessage": "✅ Vous y êtes ! Vérifiez votre email pour un accès instantané. Bienvenue chez FrostyLabs.",
-    "errorMessage": "❌ Une erreur s'est produite. Veuillez réessayer."
+    "successMessage": "✅ Vous êtes inscrit ! Vérifiez votre e-mail pour un accès instantané. Bienvenue chez FrostyLabs.",
+    "errorMessage": "❌ Une erreur s'est produite. Veuillez réessayer.",
+    "waitlistOffer": "Rejoignez la liste d'attente, les 100 premiers recevront un abonnement d'un mois à FrostyLabs AI gratuitement."
   },
   "stats": {
     "aiModels": "Modèles IA",
@@ -137,7 +138,7 @@
       "description": "Pour les professionnels construisant des flux de travail avancés",
       "emoji": "⚡",
       "badge": "FONDATEUR BÉTA",
-      "cta": "Rejoindre la Bêta (Premier Mois Gratuit)",
+      "cta": "Réclamer NFT Fondateur Gratuit",
       "features": [
         "10 Projets",
         "50 Flux de Travail",
@@ -153,7 +154,7 @@
       "price": "99 $/mois",
       "description": "Pour les équipes et l'automatisation avancée",
       "emoji": "🏢",
-      "cta": "Rejoindre la Bêta (Premier Mois Gratuit)",
+      "cta": "Mintez le NFT Entreprise",
       "features": [
         "Projets Illimités",
         "Flux de Travail Illimités",

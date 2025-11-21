@@ -23,7 +23,8 @@
     "frostyFlowButton": "FrostyFlow Coming Soon",
     "viewGithub": "View on GitHub",
     "successMessage": "✅ You're in! Check your email for instant access. Welcome to FrostyLabs.",
-    "errorMessage": "❌ Something went wrong. Please try again."
+    "errorMessage": "❌ Something went wrong. Please try again.",
+    "waitlistOffer": "Join the waitlist, the first 100 will receive a 1 month subscription to FrostyLabs AI for free."
   },
   "stats": {
     "aiModels": "AI Models",
@@ -137,7 +138,7 @@
       "description": "For professionals building advanced workflows",
       "emoji": "⚡",
       "badge": "BETA FOUNDER",
-      "cta": "Join Beta (First Month Free)",
+      "cta": "Claim Free Founder NFT",
       "features": [
         "10 Projects",
         "50 Workflows",
@@ -153,7 +154,7 @@
       "price": "$99/mo",
       "description": "For teams and advanced automation",
       "emoji": "🏢",
-      "cta": "Join Beta (First Month Free)",
+      "cta": "Mint Enterprise NFT",
       "features": [
         "Unlimited Projects",
         "Unlimited Workflows",

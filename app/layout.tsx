@@ -6,6 +6,7 @@ import { Toaster } from "@/components/ui/sonner";
 import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import Script from "next/script";
+import { ThirdwebProviderWrapper } from "@/components/ThirdwebProviderWrapper";
 
 const orbitron = Orbitron({
   variable: "--font-orbitron",
@@ -145,15 +146,17 @@ export default async function RootLayout({
       </head>
       <body className={`${orbitron.variable} antialiased`}>
         <NextIntlClientProvider messages={messages}>
-          <ThemeProvider
-            attribute="class"
-            defaultTheme="dark"
-            enableSystem
-            disableTransitionOnChange
-          >
-            {children}
-            <Toaster />
-          </ThemeProvider>
+          <ThirdwebProviderWrapper>
+            <ThemeProvider
+              attribute="class"
+              defaultTheme="dark"
+              enableSystem
+              disableTransitionOnChange
+            >
+              {children}
+              <Toaster />
+            </ThemeProvider>
+          </ThirdwebProviderWrapper>
         </NextIntlClientProvider>
       </body>
     </html>

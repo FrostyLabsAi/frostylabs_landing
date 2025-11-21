@@ -22,8 +22,9 @@
     "joinBeta": "获取抢先体验 →",
     "frostyFlowButton": "FrostyFlow 即将推出",
     "viewGithub": "在GitHub上查看",
-    "successMessage": "✅ 您已加入！检查您的电子邮件以获得即时访问权限。欢迎来到FrostyLabs。",
-    "errorMessage": "❌ 出了点问题。请重试。"
+    "successMessage": "✅ 您已加入！请查看您的电子邮件以获取即时访问权限。欢迎来到FrostyLabs。",
+    "errorMessage": "❌ 出错了。请重试。",
+    "waitlistOffer": "加入候补名单，前100名将免费获得FrostyLabs AI的1个月订阅。"
   },
   "stats": {
     "aiModels": "AI模型",
@@ -137,11 +138,11 @@
       "description": "适合构建高级工作流的专业人士",
       "emoji": "⚡",
       "badge": "BETA创始者",
-      "cta": "加入Beta（首月免费）",
+      "cta": "领取免费创始人NFT",
       "features": [
         "10个项目",
         "50个工作流",
-        "每月500次AI调用",
+        "500次AI调用/月",
         "高级AI模型（GPT-5, Claude 4.5）",
         "文档上传 & RAG",
         "计划工作流",
@@ -151,9 +152,9 @@
     "enterprise": {
       "name": "企业版",
       "price": "$99/月",
-      "description": "适合团队和高级自动化",
+      "description": "适用于团队和高级自动化",
       "emoji": "🏢",
-      "cta": "加入Beta（首月免费）",
+      "cta": "铸造企业版NFT",
       "features": [
         "无限项目",
         "无限工作流",
