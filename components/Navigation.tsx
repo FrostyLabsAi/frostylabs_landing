@@ -51,6 +51,7 @@ export function Navigation() {
 		{ href: '#how', label: t('product') },
 		{ href: '#capabilities', label: t('capabilities') },
 		{ href: '#pricing', label: t('pricing') },
+		{ href: '/blog', label: t('blog') },
 		{ href: SITE.docs, label: t('docs'), external: true },
 		{ href: SITE.github, label: t('github'), external: true, icon: <Github className='w-4 h-4' /> },
 	];
