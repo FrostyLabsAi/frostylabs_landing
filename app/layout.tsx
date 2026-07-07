@@ -70,6 +70,11 @@ export const metadata: Metadata = {
     // google: 'your-google-verification-code', // Add when you have it
     // yandex: 'your-yandex-verification-code',
   },
+
+  // base.dev app verification (renders <meta name="base:app_id" content="...">)
+  other: {
+    'base:app_id': '6a4cf5b515480740c618d8f4',
+  },
 };
 
 const organizationSchema = {
