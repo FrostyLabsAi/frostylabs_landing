@@ -76,8 +76,9 @@ export function FrostToken() {
 			<H2>Accelerating the liquidity: bonds</H2>
 			<P>
 				Revenue builds POL steadily. Bonds build it fast. After launch, anyone can deposit
-				USDC and receive $FROST at a public discount — around 10% — vesting over about a
-				week. The protocol keeps the USDC and deploys it straight into POL.
+				USDC and receive $FROST at a public, demand-driven discount — around 10% at open,
+				tightening automatically as bonding demand rises — vesting over about a week. The
+				protocol keeps the USDC and deploys it straight into POL.
 			</P>
 			<P>
 				It solves the two things a young token lacks at once: depth and float. The bonder

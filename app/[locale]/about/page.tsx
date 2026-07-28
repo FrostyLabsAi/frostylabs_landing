@@ -2,24 +2,19 @@ import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { AboutHero } from "@/components/about/AboutHero";
 import { Mission } from "@/components/about/Mission";
-import { TechStack } from "@/components/about/TechStack";
-import { Roadmap } from "@/components/about/Roadmap";
 
 export const metadata = {
-  title: "About - FrostyLabs.ai | Our Mission & Roadmap",
-  description: "Learn about FrostyLabs.ai mission, team, and the future of AI automation with blockchain integration and NFT subscriptions. Launching December 2025.",
+  title: "About - FrostyLabs.ai | Our Mission",
+  description: "Learn about FrostyLabs.ai — our mission, technology, and the future of on-chain AI automation with simple USDC subscriptions, x402 payments, and ERC-8004 agent identity.",
 };
 
 export default function AboutPage() {
   return (
-    <main className="min-h-screen bg-deep-arctic text-white">
+    <main className="min-h-screen bg-[#05060b] text-white">
       <Navigation />
       <AboutHero />
       <Mission />
-      <TechStack />
-      <Roadmap />
       <Footer />
     </main>
   );
 }
-
